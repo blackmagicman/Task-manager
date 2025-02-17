@@ -16,7 +16,7 @@ A simple and efficient task manager application to help you keep track of your t
    ```sh
    git clone https://github.com/blackmagicman/Task-manager.git
    ```
-2. Navigate to the project directory:
+2. Navigate to the project directory:    
    ```sh
    cd Task-manager
    ```
